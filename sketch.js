@@ -3,6 +3,7 @@
  * 1. Changing the shapes from circles to squares
  * 2. Having the shapes change colors randomly when they hit the wall
  * 3. Speeding up the audio 
+ * 4. Changed shape speeds
  * Link to the github website: https://katestrong.github.io/CSCI201FinalProject/
  *
  *This program sketch is copied from Even Peck's example at
